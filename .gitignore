@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Mac & Windows OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python egg
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+
+# Pip and poetry
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# Environment variable files
+.env
+.env.*
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Data & outputs (optional, edit for your use)
+*.sqlite3
+*.db
+*.h5
+*.csv
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+
+# Streamlit
+.streamlit/config.toml
